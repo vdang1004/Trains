@@ -1,0 +1,10 @@
+.container, .scheduleTable {
+    border: 20pt;
+    border-color: black;
+    margin: 10px
+}
+
+.addTrain {
+    border: 2px;
+    border-color: gray;
+}
